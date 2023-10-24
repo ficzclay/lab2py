@@ -1,4 +1,4 @@
-# lab2py
+![Screenshot_20231024_181618](https://github.com/ficzclay/lab2py/assets/148204078/f46ade0e-78d5-49e8-9b73-bd821ee9b175)# lab2py
 
 ## Cara install virtual environment
 - Jika menggunakan arch based linux bisa dengan command
@@ -94,6 +94,7 @@ git push -u origin master
 
 ## Clone Repository
 
+
 - git clone digunakan untuk mengambil salinan dari repositori Git dari server ke repositori lokal
 - gunakan command ini untuk melakukan kloning ke repositori lokal
 
@@ -101,5 +102,15 @@ git push -u origin master
 git clone [url]
 ```
 
+
+
+
 ## Berikut bukti pengerjaan-nya
 
+![Screenshot_20231024_155450](https://github.com/ficzclay/lab2py/assets/148204078/99ccdc9e-feb3-4867-bbfc-d0d201410940)
+
+![Screenshot_20231024_172645](https://github.com/ficzclay/lab2py/assets/148204078/a9f404cd-4c90-48f8-aeba-c108396134b4)
+
+![Screenshot_20231024_180602](https://github.com/ficzclay/lab2py/assets/148204078/b060c068-26eb-4bd5-ba6d-8d42ad26c94f)
+
+![Screenshot_20231024_181618](https://github.com/ficzclay/lab2py/assets/148204078/45c1645b-132d-4e78-8047-47599366872b)
