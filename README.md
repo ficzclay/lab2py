@@ -2,6 +2,9 @@
 - Jika menggunakan arch based linux bisa dengan command
 ```
 python -m venv venv
+```
+
+```
 source venv/bin/activate
 ```
 
