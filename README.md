@@ -1,5 +1,3 @@
-![Screenshot_20231024_181618](https://github.com/ficzclay/lab2py/assets/148204078/f46ade0e-78d5-49e8-9b73-bd821ee9b175)# lab2py
-
 ## Cara install virtual environment
 - Jika menggunakan arch based linux bisa dengan command
 ```
